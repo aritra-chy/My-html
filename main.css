@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(16, 216, 199)6, 155);
+    background-image: url(https://damassets.autodesk.net/content/dam/autodesk/www/industry/3d-animation/create-beautiful-3d-animations-thumb-1204x677.jpg);
+    background-size: cover;
+    background-position: ;
+    background-repeat: no-repeat;
+   
+
+}
+h2,h3,h4,h5{
+    color: rgb(238, 243, 241);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+p{
+    color: blue;
+}
+#italic
+{
+    color: black;
+}
+table{
+    margin: 80px;
+    align-items: center;
+    color: rgb(8, 1, 1);
+    background-color:aquamarine;
+    text-align: center;
+    height: 100%;
+    width: 50%;
+    font-size: 16px;
+    border-color: rgb(0, 0, 0);
+}
+tfoot{
+    text-transform: uppercase;
+    font-style: oblique;
+    text-shadow: 1px 1px ;
+
+}
+thead{
+    text-transform: lowercase;
+    font-style: italic;
+    text-shadow: 1px 1px yellow;
+}
